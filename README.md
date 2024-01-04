@@ -3,4 +3,13 @@
 ## Hi there! 👋 I am Pranamya Dinesh, a Data enthusiast and a Problem Solver. 
 
 I am a Data Science Grad Student at Northeastern university. 
-[giphy](https://github.com/pranamya18/pranamya18/assets/49710041/e0d6e520-ecf5-432a-adb4-3edcb98f8729)
+
+
+- :woman_technologist: I am passionate about Machine Learning and Natural Laungage processing                      
+- 🌱 I am currently learning Transfomers and LLMs
+- 📫 Reach out to me at my email: dinesh.p@northeastern.edu
+
+## Connect with me: 
+                                       
+
+                                                    
