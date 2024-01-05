@@ -9,9 +9,9 @@ I am a Data Science Grad Student at Northeastern university.
 - 🌱 I am currently learning Transfomers and LLMs
 - 📫 Reach out to me at my email: dinesh.p@northeastern.edu
 
-## Connect with me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/pranamya-dinesh/)
-
+### Connect with me: 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranamya-dinesh/)
                                        
-                                             
-       
+### Skills     
+
+[![My Skills](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,docker,aws)](https://skillicons.dev)      
