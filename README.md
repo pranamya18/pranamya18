@@ -10,6 +10,8 @@ I am a Data Science Grad Student at Northeastern university.
 - 📫 Reach out to me at my email: dinesh.p@northeastern.edu
 
 ## Connect with me: 
-                                       
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/pranamya-dinesh/)
 
-                                                    
+                                       
+                                             
+       
