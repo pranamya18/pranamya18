@@ -4,6 +4,7 @@
 
 I am a Data Science Grad Student at Northeastern university. 
 
+![data-code](https://github.com/pranamya18/pranamya18/assets/49710041/2250cb06-f245-4e4f-9c3d-f11eb962df31)
 
 - :woman_technologist: I am passionate about Machine Learning and Natural Laungage processing                      
 - 🌱 I am currently learning Transfomers and LLMs
