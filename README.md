@@ -10,6 +10,7 @@ I am a Data Science Grad Student at Northeastern university.
 - :woman_technologist: I am passionate about Machine Learning and Natural Laungage processing                      
 - 🌱 I am currently learning Transfomers and LLMs
 - 📫 Reach out to me at my email: dinesh.p@northeastern.edu
+- 👩‍💼Currently I am interning at Congnitus consulting 
 
 ### Connect with me: 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranamya-dinesh/)
