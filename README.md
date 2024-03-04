@@ -17,4 +17,4 @@ I am a Data Science Grad Student at Northeastern university.
                                        
 ### Skills     
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,r,tensorflow,pytorch,docker,aws,mongodb,mysql,anaconda,atom,vscode,sklearn,github,git)](https://skillicons.dev)      
+[![My Skills](https://skillicons.dev/icons?i=c,python,r,tensorflow,pytorch,docker,aws,mongodb,mysql,anaconda,atom,vscode,sklearn,github,git,postman,fastapi)](https://skillicons.dev)      
